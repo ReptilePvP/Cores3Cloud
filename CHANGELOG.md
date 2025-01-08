@@ -1,6 +1,5 @@
 # Changelog
 
-All notable changes to the Terp Meter project will be documented in this file.
 
 ## [2025-01-07]
 
